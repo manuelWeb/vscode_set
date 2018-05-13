@@ -1,0 +1,29 @@
+tr
+  td
+    table[style="display:inline-table;" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="620" ]
+   tr
+    td[test="montestCrochet" value="Nan"]
+     img#s1c1_header[name="s1c1_header" src="images/s1c1_header.png" width="400" height="167" alt=""]
+    td[test="montestCrochet" value="Nan"]
+     img#s1c2_partieDeux[name="s1c2_partieDeux" src="images/s1c2_partieDeux.png" width="220" height="167" alt=""]
+tr
+ td
+  table[style="display:inline-table;" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="620" ]
+   tr
+    td
+     img#s2c1_pdt[name="s2c1_pdt" src="images/s2c1_pdt.png" width="235" height="179" alt=""]
+    td
+     img#s2c2_pdt[name="s2c2_pdt" src="images/s2c2_pdt.png" width="165" height="179" alt=""]
+    td
+     img#s2c3_pdt[name="s2c3_pdt" src="images/s2c3_pdt.png" width="220" height="179" alt=""]
+tr
+ td
+  table[style="display:inline-table;" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="620" ]
+   tr
+    td
+     img#s3c1_pdt[name="s3c1_pdt" src="images/s3c1_pdt.png" width="528" height="203" alt=""]
+    td
+     img#s3c2_pdt[name="s3c2_pdt" src="images/s3c2_pdt.png" width="92" height="203" alt=""]
+tr
+ td
+  img#s4_footer[name="s4_footer" src="images/s4_footer.png" width="620" height="251" alt=""]
